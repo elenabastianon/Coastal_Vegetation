@@ -1,12 +1,11 @@
 This repository houses information related to the coastal vegetation group. 
 
-## Contributors
-[Elena Bastianon](https://www.hull.ac.uk/staff-directory/elena-bastianon), University of Hull
-[Isamar Cortes](https://msu-coastaldynamics.squarespace.com/our-team), Montclair State University
-[Elizabeth Davis](liz-davis.net), Virginia Institute of Marine Science, William & Mary
-[Kelly Sanks](https://sse.tulane.edu/content/kelly-sanks), Tulane University
+# Contributors
+[Elena Bastianon](https://www.hull.ac.uk/staff-directory/elena-bastianon), University of Hull <br />
+[Isamar Cortes](https://msu-coastaldynamics.squarespace.com/our-team), Montclair State University <br />
+[Elizabeth Davis](https://liz-davis.net), Virginia Institute of Marine Science, William & Mary <br />
+[Kelly Sanks](https://sse.tulane.edu/content/kelly-sanks), Tulane University <br />
 [Lexi Van Blunk](https://chaz.wordpress.ncsu.edu/people/), North Carolina State University
-
 
 ## Introduction
 Mangroves and salt marsh ecotone regions are migrating towards the poles due to climatic changes such as increasing temperatures and shifting salinity regimes. IMPLICATION OF CHANGE. In this analysis, we examine how dominant vegetation type (i.e., marsh or mangroves) influences delta evolution and sediment accretion over a 50 year time period.
