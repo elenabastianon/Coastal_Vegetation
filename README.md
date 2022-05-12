@@ -19,3 +19,5 @@ This material was enabled and encouraged by the contributors' participation in t
 
 ## References
 Lauzon, R., & Murray, A. B. (2018). Comparing the cohesive effects of mud and vegetation on delta evolution. Geophysical Research Letters, 45(19), 10-437.
+Liang, M.; Voller, V. R.; Paola, C. (2015). A reduced-complexity model for river delta formation &amp;ndash; Part 1: Modeling deltas with channel dynamics. Earth Surface Dynamics, 3, 67–86. 10.5194/esurf-3-67-2015
+Liang, M.; Geleynse, N.; Edmonds, D. A.; Passalacqua, P. (2015). A reduced-complexity model for river delta formation &amp;ndash; Part 2: Assessment of the flow routing scheme. Earth Surface Dynamics, 3, 87–104. 10.5194/esurf-3-87-2015
