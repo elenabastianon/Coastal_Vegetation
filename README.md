@@ -1,6 +1,6 @@
 This repository houses information related to the coastal vegetation group. 
 
-# Contributors
+## Contributors
 [Elena Bastianon](https://www.hull.ac.uk/staff-directory/elena-bastianon), University of Hull <br />
 [Isamar Cortes](https://msu-coastaldynamics.squarespace.com/our-team), Montclair State University <br />
 [Elizabeth Davis](https://liz-davis.net), Virginia Institute of Marine Science, William & Mary <br />
