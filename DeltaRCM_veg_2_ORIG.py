@@ -715,6 +715,6 @@ class DeltaRCM(model_steps):
     def __init__(self):
         self.setup()   
       
-#run the model
-delta = DeltaRCM()
-delta.run()
+# #run the model
+# delta = DeltaRCM()
+# delta.run()
