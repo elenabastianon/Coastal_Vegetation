@@ -18,7 +18,7 @@ Mangroves and salt marsh ecotone regions are migrating towards the poles due to 
 This material was enabled and encouraged by the contributors' participation in the Community Surface Dynamics Modeling System (CSDMS) Spring School in 2022. This work was [presented](https://docs.google.com/presentation/d/1cbtoDjHqp55DL6QAqcN4Qq-_cWcGRhF7ubgK3-Nt650/edit?usp=sharing) during the 2022 CSDMS Annual Meeting.
 
 ## References
-Lauzon, R., & Murray, A. B. (2018). Comparing the cohesive effects of mud and vegetation on delta evolution. Geophysical Research Letters, 45(19), 10-437. <br />
-Liang, M.; Voller, V. R.; Paola, C. (2015). A reduced-complexity model for river delta formation &amp;ndash; Part 1: Modeling deltas with channel dynamics. Earth Surface Dynamics, 3, 67–86. 10.5194/esurf-3-67-2015 <br />
-Liang, M.; Geleynse, N.; Edmonds, D. A.; Passalacqua, P. (2015). A reduced-complexity model for river delta formation &amp;ndash; Part 2: Assessment of the flow routing scheme. Earth Surface Dynamics, 3, 87–104. 10.5194/esurf-3-87-2015 <br />
+Lauzon, R. & Murray, A. B. (2018). Comparing the cohesive effects of mud and vegetation on delta evolution. Geophysical Research Letters, 45(19), 10-437. <br />
+Liang, M.; Voller, V. R.; Paola, C. (2015). A reduced-complexity model for river delta formation; Part 1: Modeling deltas with channel dynamics. Earth Surface Dynamics, 3, 67–86. 10.5194/esurf-3-67-2015 <br />
+Liang, M.; Geleynse, N.; Edmonds, D. A.; Passalacqua, P. (2015). A reduced-complexity model for river delta formation; Part 2: Assessment of the flow routing scheme. Earth Surface Dynamics, 3, 87–104. 10.5194/esurf-3-87-2015 <br />
 Willemsen, Pim; Horstman, Erik; Borsje, B.W.; Friess, Daniel; Dohmen-Janssen, Marjolein (2016). Sensitivity of sediment trapping capacity of estuarine mangrove forests: Geomorphology. 273. 10.1016/j.geomorph.2016.07.038.
