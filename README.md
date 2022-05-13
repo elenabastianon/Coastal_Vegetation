@@ -15,7 +15,7 @@ Mangroves and salt marsh ecotone regions are migrating towards the poles due to 
 ### Key Concepts
 
 ## Acknowledgements
-This material was enabled and encouraged by the contributors' participation in the Community Surface Dynamics Modeling System (CSDMS) Spring School in 2022.
+This material was enabled and encouraged by the contributors' participation in the Community Surface Dynamics Modeling System (CSDMS) Spring School in 2022. This work was [presented](https://docs.google.com/presentation/d/1cbtoDjHqp55DL6QAqcN4Qq-_cWcGRhF7ubgK3-Nt650/edit?usp=sharing) during the 202 CSDMS Annual Meeting.
 
 ## References
 Lauzon, R., & Murray, A. B. (2018). Comparing the cohesive effects of mud and vegetation on delta evolution. Geophysical Research Letters, 45(19), 10-437. <br />
