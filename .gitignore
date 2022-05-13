@@ -1,0 +1,5 @@
+#This is the gitignore file for the code repository: Coastal_Vegetation
+
+#ignore autosave files and figures
+*.png
+*.npy
